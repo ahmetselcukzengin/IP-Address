@@ -1,1 +1,1 @@
-Find your devce ip address
+Find your devce ip address.
